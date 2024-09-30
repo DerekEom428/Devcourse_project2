@@ -1,0 +1,5 @@
+분석 시에 전처리를 거쳐 활용한 데이터셋 파일 수정본입니다. (encoding='unicode_escape')
+(분석에 필요없는 컬럼 삭제, 좌표 및 거리 컬럼 추가, 데이터 클리닝 등)
+용량이 커서(100MB) 직접 업로드가 어려운 관계로 dropbox 링크로 대체합니다.
+
+https://www.dropbox.com/scl/fi/uzpu86s7ueyhgw9626kl9/DataCoSupplyChainDataset_rev1.csv?rlkey=bfbcjjxhkc79cfflq2lnn7juc&st=iqmimqe4&dl=0
